@@ -1,4 +1,4 @@
-# 🏷️ Adidas Sales and Profitability Dashboard (Power BI)
+# 🏷️ Adidas Sales and Profitability Dashboard (Excel)
 
 ### 📊 Project Overview
 This project analyzes **Adidas U.S. sales data** for the years **2020 and 2021**, aiming to understand how **sales channels, product pricing, and operating margins** affect overall profitability.
