@@ -1,3 +1,7 @@
+## 📄 Project Report
+For detailed findings and visuals, check the full report:
+[Adidas Sales Analysis Report (PDF)](Adidas_Sales_Analysis_Report_Syed_Mutallib_Faraz.pdf)
+
 # 🏷️ Adidas Sales and Profitability Dashboard (Excel)
 
 ### 📊 Project Overview
